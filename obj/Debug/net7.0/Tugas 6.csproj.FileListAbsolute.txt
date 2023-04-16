@@ -1,0 +1,15 @@
+D:\FILE-KU\Ngoding\Program\Semester 2\C# Language\Tugas 6\obj\Debug\net7.0\Tugas 6.csproj.AssemblyReference.cache
+D:\FILE-KU\Ngoding\Program\Semester 2\C# Language\Tugas 6\obj\Debug\net7.0\Tugas 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE-KU\Ngoding\Program\Semester 2\C# Language\Tugas 6\obj\Debug\net7.0\Tugas 6.AssemblyInfoInputs.cache
+D:\FILE-KU\Ngoding\Program\Semester 2\C# Language\Tugas 6\obj\Debug\net7.0\Tugas 6.AssemblyInfo.cs
+D:\FILE-KU\Ngoding\Program\Semester 2\C# Language\Tugas 6\obj\Debug\net7.0\Tugas 6.csproj.CoreCompileInputs.cache
+D:\FILE-KU\Ngoding\Program\Semester 2\C# Language\Tugas 6\bin\Debug\net7.0\Tugas 6.exe
+D:\FILE-KU\Ngoding\Program\Semester 2\C# Language\Tugas 6\bin\Debug\net7.0\Tugas 6.deps.json
+D:\FILE-KU\Ngoding\Program\Semester 2\C# Language\Tugas 6\bin\Debug\net7.0\Tugas 6.runtimeconfig.json
+D:\FILE-KU\Ngoding\Program\Semester 2\C# Language\Tugas 6\bin\Debug\net7.0\Tugas 6.dll
+D:\FILE-KU\Ngoding\Program\Semester 2\C# Language\Tugas 6\bin\Debug\net7.0\Tugas 6.pdb
+D:\FILE-KU\Ngoding\Program\Semester 2\C# Language\Tugas 6\obj\Debug\net7.0\Tugas 6.dll
+D:\FILE-KU\Ngoding\Program\Semester 2\C# Language\Tugas 6\obj\Debug\net7.0\refint\Tugas 6.dll
+D:\FILE-KU\Ngoding\Program\Semester 2\C# Language\Tugas 6\obj\Debug\net7.0\Tugas 6.pdb
+D:\FILE-KU\Ngoding\Program\Semester 2\C# Language\Tugas 6\obj\Debug\net7.0\Tugas 6.genruntimeconfig.cache
+D:\FILE-KU\Ngoding\Program\Semester 2\C# Language\Tugas 6\obj\Debug\net7.0\ref\Tugas 6.dll
